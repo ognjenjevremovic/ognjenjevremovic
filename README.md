@@ -5,12 +5,9 @@ I'm ***Oggy***.
 Versatile software engineer with over <strong>8 years</strong> of professional experience, highly driven by the quality of code.  
 I am proficient in _TypeScript_, _Angular_, _Vue_, _NestJS_ and _Node_.  
 
-I'm currently working full-time as a <strong>Senior Full-Stack Developer</strong>.  
-Over the years I have built feature rich web applications that scaled to over _<ins>tens of thousands of users<ins>_.  
-
 <strong>Communication</strong> and <strong>teamwork</strong> are key concepts I hold dear and believe are important for delivering quality work.  
 
-Besides full-time employment I have been present in the <strong>Open Source</strong> community, contributing to various JavaScript, TypeScript and NodeJS projects. Over the years, I have contributed to more than <strong>15+ Open Source projects</strong>, tools, libraries and frameworks.  
+Besides full-time employment I have been present in the <strong>Open Source</strong> community, contributing to various JavaScript, TypeScript and NodeJS projects.
 
 <h3 align="center">I am eager to develop amazing software with amazing people 💚.</h3>
 <br />
