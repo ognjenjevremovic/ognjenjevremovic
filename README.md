@@ -1,19 +1,125 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Ognjen (usually referred to as Oggy)</h1>
 
-I'm ***Oggy***.  
+<p align="center">
+  <em>
+    Results-driven senior software engineer with over 9 years of experience<br />
+    Architecting scalable, performant web applications with JavaScript & NodeJS<br />
+    Passionate about clean code, mentorship, and open source contributions 💚
+  </em>
+</p>
 
-Versatile software engineer with over <strong>8 years</strong> of professional experience, highly driven by the quality of code.  
-I am proficient in _TypeScript_, _Angular_, _Vue_, _NestJS_ and _Node_.  
+### About Me
 
-<strong>Communication</strong> and <strong>teamwork</strong> are key concepts I hold dear and believe are important for delivering quality work.  
+I'm a versatile fullstack developer with over a decade of professional experience building scalable and performant web applications. My expertise lies primarily in JavaScript/TypeScript and NodeJS ecosystems, solving complex problems and delivering high-quality software through clean, maintainable code.
 
-Besides full-time employment I have been present in the <strong>Open Source</strong> community, contributing to various JavaScript, TypeScript and NodeJS projects.
+Beyond coding, I am passionate about mentorship and fostering team growth by providing guidance, support, and constructive feedback. I believe **communication** and **collaboration** are key to delivering exceptional software.  
 
-<h3 align="center">I am eager to develop amazing software with amazing people 💚.</h3>
-<br />
+<br clear="both" />
 
 <div align="center">
-<img width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=ognjenjevremovic&show_icons=true&count_private=true&theme=vue&border_radius=12&hide=contribs&rank_icon=github&include_all_commits=true&custom_title=Ognjen%20Jevremovic&hide_title=true&layout=default&card_width=400&langs_count=10&line_height=30" />
-<img width="400" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ognjenjevremovic&theme=vue&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&card_width=520" />
-</div> 
-<br />
+
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="NestJS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" height="30" alt="Fastify" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="30" alt="Mongoose" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="30" alt="Vue.js" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nuxt/00DC82" height="30" alt="Nuxt.js" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="React" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="30" alt="Angular" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="30" alt="Astro" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="30" alt="Vite" />
+  <img width="12" />
+  </div>
+  <div align="center">
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="30" alt="Webpack" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="30" alt="GitHub Actions" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="30" alt="GitLab" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="30" alt="CircleCI"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="30" alt="Nginx" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jest/C21325" height="30" alt="Jest" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" height="30" alt="Vitest" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="30" alt="Supabase" />
+</div>
+
+<br clear="both" />
+
+### What I'm Up To
+
+- 👨‍💻 Senior Tech Lead driving scalable, performant web solutions and mentoring engineering teams remotely across Europe.  
+- 🚀 Bootstrapped a B2B SaaS platform from the ground up — architected, developed, and managed all technical aspects including API design, CI/CD pipelines and integrations.  
+- 💡 Passionate about building clean, maintainable code and fostering team growth through mentorship and collaboration.  
+- 📚 Lifelong learner focused on evolving skills in modern web ecosystems, cloud-native architectures and developer experience.  
+- 🛠️ Contributed to 15+ open source projects, including Node.js core modules and popular libraries like Fastify, Undici and Workbox.  
+- 🌍 Based in Europe, working remotely and always open to connecting with fellow developers and entrepreneurs.  
+
+<br clear="both" />
+
+<p align="center">
+  <img src="./assets/footer.png" alt="@ognjenjevremovic on GitHub" />
+</p>
+
+<p align="center">
+  <em>Feel free to reach out — I’m always excited to connect and collaborate!</em>
+</p>
+
+---
+
+<br clear="both" />
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ognjenjevremovic&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1"
+    height="150"
+    alt="Ognjen's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ognjenjevremovic&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2"
+    height="150"
+    alt="Ognjen's Top Languages"
+  />
+  <img
+    src="https://github-profile-trophy.vercel.app?username=ognjenjevremovic&theme=dark&column=-1&row=3&margin-w=12&margin-h=12&no-bg=true&no-frame=true&order=4"
+    height="150"
+    alt="Ognjen's GitHub Trophies"
+  />
+</div>
