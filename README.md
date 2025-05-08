@@ -103,23 +103,3 @@ Beyond coding, I am passionate about mentorship and fostering team growth by pro
 </p>
 
 ---
-
-<br clear="both" />
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ognjenjevremovic&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1"
-    height="150"
-    alt="Ognjen's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ognjenjevremovic&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2"
-    height="150"
-    alt="Ognjen's Top Languages"
-  />
-  <img
-    src="https://github-profile-trophy.vercel.app?username=ognjenjevremovic&theme=dark&column=-1&row=3&margin-w=12&margin-h=12&no-bg=true&no-frame=true&order=4"
-    height="150"
-    alt="Ognjen's GitHub Trophies"
-  />
-</div>
